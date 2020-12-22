@@ -4,4 +4,5 @@
 ___
 
 ## My Sosmed
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px"> @nazwas.uwu
+<a href="https://instagram.com/nazwas.uwu"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px"> @nazwas.uwu
+</p><br/>
