@@ -3,6 +3,6 @@
 
 ___
 
-## My Sosmed
-<a href="https://instagram.com/nazwas.uwu"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px"> @nazwas.uwu
+## Connect with me:
+<a href="https://instagram.com/nazwas.uwu"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px">
 </p><br/>
