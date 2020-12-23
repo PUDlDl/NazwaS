@@ -3,6 +3,6 @@
 
 ___
 
-## Connect with me:
+Connect With Me:
 <a href="https://instagram.com/nazwas.uwu"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px">
 </p><br/>
