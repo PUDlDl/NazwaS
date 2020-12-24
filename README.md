@@ -3,10 +3,7 @@
 <center>
 Connect with me :
 
-<a href="https://instagram.com/nazwa.salsa_ig"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="alt text" alt="alt text" width="20px"></a>
+<a href="https://web.facebook.com/profile.php?id=100060138295881"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/nazwa.salsa_ig"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://twitter.com/NazwaSa72637177"><img src="https://github.com/NazwaS/NazwaS/blob/main/img/twitter.jpeg" alt="alt text" width="20px"></a>
- &nbsp;&nbsp; 
-<a href="https://web.facebook.com/profile.php?id=100060138295881"><img src="https://github.com/NazwaS/NazwaS/blob/main/img/facebook.jpeg" alt="alt text" width=20></a>
 
 ___
