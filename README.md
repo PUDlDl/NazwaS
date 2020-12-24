@@ -5,5 +5,5 @@ ___
 
 Connect With Me:
 
-<a href="https://instagram.com/nazwa.salsa_ig"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px">    <a href="https://twitter.com/NazwaSa72637177"><img src="https://github.com/NazwaS/NazwaS/blob/main/img/twitter.jpeg" width="20px">
+<a href="https://instagram.com/nazwa.salsa_ig"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px">       <a href="https://twitter.com/NazwaSa72637177"><img src="https://github.com/NazwaS/NazwaS/blob/main/img/twitter.jpeg" width="20px">
 </p><br/>
