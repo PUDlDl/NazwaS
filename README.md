@@ -27,3 +27,4 @@ Donate Me On:
 
 - Saweria : https://saweria.co/nazwas
 
+<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/kawaii.gif">
