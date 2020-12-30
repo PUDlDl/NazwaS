@@ -25,6 +25,6 @@ Contact : nazwa.salsa67.bila@gmail.com
 ## Donate
 Donate Me On:
 
-- Saweria : https://saweria.co/nazwas
+* [`Saweria`](https://saweria.co/NazwaS)
 
 <img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/kawaii.gif">
