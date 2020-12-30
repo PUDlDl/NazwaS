@@ -16,3 +16,14 @@ ___
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
 
 ___
+
+
+Wanna Hide Me ?
+
+Contact : nazwa.salsa67.bila@gmail.com
+
+## Donate
+Donate Me On:
+
+- Saweria : https://saweria.co/nazwas
+
