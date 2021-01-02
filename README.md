@@ -30,3 +30,5 @@ Donate Me On:
 <img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/kawaii.gif">
 
 ## Special
+
+<a href="https://github.com/ERROR404/ERROR404"><img src="https://img.shields.io/badge/-NOTHING%20TO%20SEE%20HERE-black?style=for-the-badge&logo=github"></a>
