@@ -22,9 +22,11 @@ Wanna Hide Me ?
 
 Contact : nazwa.salsa67.bila@gmail.com
 
-## Donate
+## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20" height="20">
 Donate Me On:
 
 * [`Saweria`](https://saweria.co/NazwaS)
 
 <img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/kawaii.gif">
+
+## Special
